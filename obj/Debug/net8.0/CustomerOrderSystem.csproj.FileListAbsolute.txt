@@ -1,0 +1,14 @@
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.AssemblyInfoInputs.cache
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.AssemblyInfo.cs
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\bin\Debug\net8.0\CustomerOrderSystem.exe
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\bin\Debug\net8.0\CustomerOrderSystem.deps.json
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\bin\Debug\net8.0\CustomerOrderSystem.runtimeconfig.json
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\bin\Debug\net8.0\CustomerOrderSystem.dll
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\bin\Debug\net8.0\CustomerOrderSystem.pdb
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.dll
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\refint\CustomerOrderSystem.dll
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.pdb
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\CustomerOrderSystem.genruntimeconfig.cache
+C:\Users\dpcav\source\MyProjects\CustomerOrderSystem\CustomerOrderSystem\obj\Debug\net8.0\ref\CustomerOrderSystem.dll
